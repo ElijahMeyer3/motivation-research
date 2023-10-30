@@ -1,0 +1,130 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,Q_RecaptchaScore,Q3,Q2,Q125,Q6,Q7,IR1,IR2,ER1,IR3,AM1,IM1,IR4,IR5,AM2,IR6,ER2,IM2,IR7,ER3,AM3,IM3,ER4,IR8,AM4,ER5,ER6,IM4,IR9,IM5,ER7,AM5,AM6,IM6,IR10,IR11,AM7,AM8,IM7,IM8,Q17,Q24,Q141,Q11,Q142,Q126,Q3,Q4,Q2
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,Q_RecaptchaScore,"Are you currently an instructor of a statistics course, or leading a statistics recitation/discussion section?",Are you currently a graduate student?,Do you have four or less terms of post-graduate teaching experience?,"Use of Group Work
+
+ 
+
+Please read the following definition of using group work for active learning: 
+
+ 
+
+Group work is a method of instruction that gets students to work together in groups of two or more. When using group work for active learning, students communicate, share ideas, and think critically about the topic(s) with their group members. This includes think-pair-share, group presentations, or other small group work activities that have students engage with their group members and the topic(s) as described above. 
+
+ 
+
+Based on this definition, do you use group work for active learning in your classroom when teaching statistics?","Fill in the blank question: Based on group work's definition (click back button to review again if necessary), describe how you use group work when teaching statistics.","Group Work Questions 
+
+ 
+
+Directions: Read each item carefully. Using the scale below, please select the option that best reflects the extent to which you agree or disagree with the following statements about your use of group work in the classroom when teaching statistics. 
+
+
+
+Answer each item according to the following scale: 
+
+
+
+Strongly Agree;
+
+Agree;
+
+Slightly agree;
+
+Slightly disagree;
+
+Disagree;
+
+Strongly disagree
+
+ 
+Using group work helps me achieve my goals as an instructor when teaching statistics",Using group work is essential when teaching statistics,One of the reasons I use group work is because my colleagues or supervisors want me to use it to teach statistics,"Typically, using group work to teach statistics is rewarding for me as an instructor",I do not see what value using group work brings me when teaching statistics,I find it interesting to use group work when teaching statistics,I appreciate using group work when teaching statistics,"As a reminder, your answers should best reflect the extent to which you agree or disagree with the following statements about your use of group work in the classroom when teaching statistics.
+
+ 
+Typically, I find using group work valuable when teaching statistics","Typically, using group work to teach statistics ends up using more class time than it is worth",Using group work reflects what I believe in as an instructor,I use group work because it typically makes teaching statistics easier,I have a desire to continue learning about how to use group work when teaching statistics,I find using group work worthwhile when teaching statistics,One of the reasons I use group work to teach statistics is because it is recommended to me by others,Using group work to teach statistics is overrated as a teaching technique,My favorite way to teach statistics is through the use of group work,One of the reasons I use group work to teach statistics is because I am told to,I am committed to consistently using group work when teaching statistics,I do not care much about using group work when teaching statistics,One of the reasons I use group work when teaching statistics is to be viewed as a better instructor,One of the reasons I use group work to teach statistics is because I feel pressured by others to do so,I get excited when using group work to teach statistics,It is important to me to use group work when teaching statistics,I take pleasure in using group work when teaching statistics,One of the reasons I use group work is so that I will receive better reviews as an instructor,I typically choose not to use group work when teaching statistics,Group work is not necessary to teach statistics,"I find it enjoyable to use group work when
+teaching statistics",Using group work to teach statistics reflects what I believe in as an instructor,Using group work is consistent with my values as a statistics instructor,I do not like using group work to teach statistics,I do not find it useful to use group work when teaching statistics,Learning how to use group work has been a process I enjoy,I have fun when using group work to teach statistics,"Prior Experience 
+
+ 
+
+How many terms have you taught a statistics course or led a statistics recitation/discussion section? If you are currently teaching a statistics course or leading a statistics recitation/discussion section this term, please include that in your count. ​","University Questions 
+
+ 
+Please list the name of the university at which you are currently employed.",Please list the name of the department at which you are currently employed.,"University Questions 
+
+ 
+
+Please list the name of the university at which you are currently enrolled as a graduate student.",Please list the name of the department at which you are currently enrolled as a graduate student.,"Interview Question
+
+ 
+Would you be willing to be contacted at a later date to participate in a short interview about the above items' interpretability? 
+
+ 
+
+Note: Clicking yes does not guarantee you to be selected as a participant. If you click yes, you may opt out at any time and are not obligated to participate in the interview.","Gift Cards 
+A total of six Amazon gift cards will be distributed to participants as incentive for participating in this study and a thank you for your time. The first person to complete the survey will receive a $15 Amazon gift card. After that, every 10th person to complete the survey up until the 50th will receive a $15 Amazon gift card. 
+To be eligible for a gift card, you must enter your name and email address below in the separate boxes. 
+
+This information will not be identifiable with your responses in any way. We thank you for taking the time to participate in our survey. 
+
+Please provide your first and last name and your current email address in the spaces below so we may contact you if you receive a gift card.
+First Name:",Last Name:,Email address:
+"{""ImportId"":""startDate"",""timeZone"":""America/Denver""}","{""ImportId"":""endDate"",""timeZone"":""America/Denver""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Denver""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""Q_RecaptchaScore""}","{""ImportId"":""QID3""}","{""ImportId"":""QID2""}","{""ImportId"":""QID125""}","{""ImportId"":""QID6""}","{""ImportId"":""QID7_TEXT""}","{""ImportId"":""QID74""}","{""ImportId"":""QID73""}","{""ImportId"":""QID83""}","{""ImportId"":""QID71""}","{""ImportId"":""QID93""}","{""ImportId"":""QID67""}","{""ImportId"":""QID107""}","{""ImportId"":""QID106""}","{""ImportId"":""QID91""}","{""ImportId"":""QID108""}","{""ImportId"":""QID86""}","{""ImportId"":""QID103""}","{""ImportId"":""QID105""}","{""ImportId"":""QID80""}","{""ImportId"":""QID92""}","{""ImportId"":""QID70""}","{""ImportId"":""QID87""}","{""ImportId"":""QID68""}","{""ImportId"":""QID96""}","{""ImportId"":""QID111""}","{""ImportId"":""QID110""}","{""ImportId"":""QID69""}","{""ImportId"":""QID78""}","{""ImportId"":""QID72""}","{""ImportId"":""QID112""}","{""ImportId"":""QID95""}","{""ImportId"":""QID88""}","{""ImportId"":""QID66""}","{""ImportId"":""QID8""}","{""ImportId"":""QID75""}","{""ImportId"":""QID133""}","{""ImportId"":""QID134""}","{""ImportId"":""QID135""}","{""ImportId"":""QID136""}","{""ImportId"":""QID17_TEXT""}","{""ImportId"":""QID24_TEXT""}","{""ImportId"":""QID137_TEXT""}","{""ImportId"":""QID11_TEXT""}","{""ImportId"":""QID138_TEXT""}","{""ImportId"":""QID126""}","{""ImportId"":""QID1713329074_TEXT""}","{""ImportId"":""QID1713329075_TEXT""}","{""ImportId"":""QID1713329073_TEXT""}"
+2021-11-18 15:45:21,2021-11-18 15:48:13,0,153.90.19.47,100,171,1,2021-11-18 15:48:13,R_1Fz9F5taWs1obic,,,,,45.6714019775390625,-111.04360198974609375,anonymous,EN,,1,1,,1,Sample Text,5,6,2,3,6,1,2,1,5,5,3,3,6,4,1,1,5,6,2,6,2,3,6,6,1,1,3,1,5,1,,,,,17,MSU,,"MSU ",,1,,,
+2021-11-23 08:08:51,2021-11-23 08:22:43,0,207.179.66.215,100,832,1,2021-11-23 08:22:44,R_2c5gEevvQxufeHE,,,,,42.7530975341796875,-84.39890289306640625,anonymous,EN,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021-11-23 09:49:19,2021-11-23 10:27:21,0,207.179.66.215,100,2282,1,2021-11-23 10:27:21,R_2PCn2tuPrjjx5Jk,,,,,42.7530975341796875,-84.39890289306640625,anonymous,EN,,1,1,,1,,1,1,6,1,6,1,2,1,5,1,3,2,1,6,6,1,6,1,6,3,6,1,1,1,6,6,6,1,1,1,,,,,Too many,Michigan State University,,,,,,,
+2021-11-23 08:34:42,2021-11-23 10:36:17,0,207.179.66.215,100,7295,1,2021-11-23 10:36:17,R_OHBX1xDyKFkIKPv,,,,,42.7530975341796875,-84.39890289306640625,anonymous,EN,,1,2,1,1,Students work on activities in pairs and then we discuss their findings as a whome class. Students work on group projects.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021-11-24 08:29:08,2021-11-24 08:30:56,0,207.179.66.215,100,107,1,2021-11-24 08:30:56,R_2czJnDsM2JvkBCm,,,,,42.7530975341796875,-84.39890289306640625,anonymous,EN,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021-11-24 08:31:36,2021-11-24 08:38:19,0,207.179.66.215,100,402,1,2021-11-24 08:38:19,R_1lnpg2GsHCnQhGg,,,,,42.7530975341796875,-84.39890289306640625,anonymous,EN,,1,1,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021-11-24 08:38:32,2021-11-24 08:39:32,0,207.179.66.215,100,59,1,2021-11-24 08:39:32,R_1i8zD0hnXaDrvwW,,,,,42.7530975341796875,-84.39890289306640625,anonymous,EN,,1,2,1,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021-11-24 08:39:38,2021-11-24 08:40:26,8,207.179.66.215,100,47,1,2021-11-24 08:40:26,R_28RNkRymw0Usc5V,,,,,42.7530975341796875,-84.39890289306640625,anonymous,EN,,1,1,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021-11-24 08:40:34,2021-11-24 08:43:18,0,207.179.66.215,100,163,1,2021-11-24 08:43:18,R_1H0PUwZY3jyYbZN,,,,,42.7530975341796875,-84.39890289306640625,anonymous,EN,,1,2,2,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021-11-24 08:43:23,2021-11-24 08:45:02,8,207.179.66.215,100,98,1,2021-11-24 08:45:02,R_0ffSIiVLsdPVTyh,,,,,42.7530975341796875,-84.39890289306640625,anonymous,EN,,1,2,2,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021-11-24 08:46:29,2021-11-24 08:50:47,0,207.179.66.215,100,258,1,2021-11-24 08:50:48,R_1F9ZoKV4yzjVa4Q,,,,,42.7530975341796875,-84.39890289306640625,anonymous,EN,,1,1,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021-11-24 08:52:08,2021-11-24 08:52:55,0,207.179.66.215,100,47,1,2021-11-24 08:52:56,R_3IQa5mhRXoSxlxA,,,,,42.7530975341796875,-84.39890289306640625,anonymous,EN,,1,2,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021-11-24 08:53:13,2021-11-24 08:54:39,0,207.179.66.215,100,86,1,2021-11-24 08:54:39,R_AHGQX658kIQiDHX,,,,,42.7530975341796875,-84.39890289306640625,anonymous,EN,,1,2,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021-11-24 08:55:13,2021-11-24 08:56:18,8,207.179.66.215,100,65,1,2021-11-24 08:56:18,R_3KZnSaHsXCVt8ve,,,,,42.7530975341796875,-84.39890289306640625,anonymous,EN,,1,2,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021-11-24 10:25:28,2021-11-24 10:34:48,0,207.179.66.215,100,559,1,2021-11-24 10:34:48,R_rpX5Aa7S99xaLZf,,,,,42.7530975341796875,-84.39890289306640625,anonymous,EN,,1,1,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021-11-24 10:34:56,2021-11-24 10:40:34,0,207.179.66.215,100,338,1,2021-11-24 10:40:35,R_1oC4JkPBH0oAd3B,,,,,42.7530975341796875,-84.39890289306640625,anonymous,EN,,1,2,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021-11-25 11:55:55,2021-11-25 11:56:04,1,,100,8,1,2021-11-25 11:56:04,R_3NyLPiEnxNSgpZG,,,,,47.50750732421875,-111.34169769287109375,preview,EN,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021-11-25 12:02:35,2021-11-25 12:02:42,1,,100,7,1,2021-11-25 12:02:43,R_XvV9MDFqJ6Ri2pr,,,,,47.50750732421875,-111.34169769287109375,preview,EN,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021-11-25 12:02:46,2021-11-25 12:05:28,1,,100,162,1,2021-11-25 12:05:29,R_bxzLZiTMebB4WKl,,,,,47.50750732421875,-111.34169769287109375,preview,EN,,1,1,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,
+2021-11-25 12:07:50,2021-11-25 12:08:42,1,,100,51,1,2021-11-25 12:08:42,R_38VgATcKi2S708p,,,,,47.50750732421875,-111.34169769287109375,preview,EN,,1,1,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,
+2021-11-25 12:16:12,2021-11-25 12:17:12,1,,100,60,1,2021-11-25 12:17:13,R_3qyd5JsQgmCNglZ,,,,,47.50750732421875,-111.34169769287109375,preview,EN,,1,1,,1,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,Jay-Z,Z,ZZZ
+2021-11-25 12:19:15,2021-11-25 12:19:55,0,72.174.48.207,100,39,1,2021-11-25 12:19:55,R_yQl6kXgfcp346AN,,,,,47.50750732421875,-111.34169769287109375,anonymous,EN,,1,1,,1,ddd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,sss,,,,,1,,,
+2021-11-25 12:25:13,2021-11-25 12:26:13,0,72.174.48.207,100,59,1,2021-11-25 12:26:13,R_3hz1GSUjaB1a87A,,,,,47.50750732421875,-111.34169769287109375,anonymous,EN,,1,1,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,z,,,,,1,Jay,ZZZ,ballsohard.jayz
+2021-11-25 12:27:17,2021-11-25 12:28:17,0,72.174.48.207,100,59,1,2021-11-25 12:28:17,R_78Ik6GhntcehkY1,,,,,47.50750732421875,-111.34169769287109375,anonymous,EN,,1,1,,1,Kansas Jayhawks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,Kansas,Jayhawks,KU@bball.com
+2021-11-18 16:11:48,2021-11-18 16:15:27,0,153.90.233.161,5,219,0,2021-11-25 16:15:28,R_2zpzHf3mbp3cooQ,,,,,,,anonymous,EN,,1,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021-11-29 21:44:22,2021-11-29 21:46:17,1,,100,114,1,2021-11-29 21:46:17,R_2q7piW5yR3iHlQL,,,,,45.66839599609375,-111.2422027587890625,preview,EN,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021-11-29 21:59:31,2021-11-29 21:59:52,1,,100,21,1,2021-11-29 21:59:53,R_WDOk6oj27kwrPhv,,,,,45.66839599609375,-111.2422027587890625,preview,EN,,1,2,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021-11-30 17:04:58,2021-12-01 08:16:24,0,207.179.66.215,100,54685,1,2021-12-01 08:16:24,R_3Di1957f78guE9h,,,,,42.7530975341796875,-84.39890289306640625,anonymous,EN,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021-12-01 08:16:38,2021-12-01 08:18:28,0,207.179.66.215,100,109,1,2021-12-01 08:18:28,R_27OPntqCc6YKnJ2,,,,,42.7530975341796875,-84.39890289306640625,anonymous,EN,,1,1,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021-12-01 08:18:34,2021-12-01 09:04:53,0,207.179.66.215,100,2779,1,2021-12-01 09:04:53,R_Zh6E3qolhk12q7n,,,,,42.7530975341796875,-84.39890289306640625,anonymous,EN,,1,1,,1,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,Jenny,,jg@msu.edu
+2021-12-01 09:05:07,2021-12-01 09:05:21,0,207.179.66.215,100,14,1,2021-12-01 09:05:21,R_2pKAfi5yVGjYDRH,,,,,42.7530975341796875,-84.39890289306640625,anonymous,EN,,1,2,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021-12-01 09:05:28,2021-12-01 09:06:00,0,207.179.66.215,100,32,1,2021-12-01 09:06:01,R_3l0Nd3mHBTEFfJT,,,,,42.7530975341796875,-84.39890289306640625,anonymous,EN,,1,2,1,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021-12-01 09:06:05,2021-12-01 09:06:22,0,207.179.66.215,100,17,1,2021-12-01 09:06:23,R_svgCxbWnvtOmkxj,,,,,42.7530975341796875,-84.39890289306640625,anonymous,EN,,1,1,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021-12-01 09:06:30,2021-12-01 09:07:44,0,207.179.66.215,100,74,1,2021-12-01 09:07:45,R_zZ0AhZncKiIY8hj,,,,,42.7530975341796875,-84.39890289306640625,anonymous,EN,,1,2,1,1,,,,,,,,,1,,,,,,,,,6,,,,,1,,,,,,,,,,,,,20,,,,,2,,,
+2021-12-01 09:11:08,2021-12-01 16:49:56,0,207.179.66.215,100,27527,1,2021-12-01 16:49:56,R_1Fzjy1l2rF5KOgE,,,,,42.7530975341796875,-84.39890289306640625,anonymous,EN,,1,2,1,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021-12-01 16:50:08,2021-12-01 16:56:12,0,207.179.66.215,100,363,1,2021-12-01 16:56:12,R_2yfJu8A32zH4jGj,,,,,42.7530975341796875,-84.39890289306640625,anonymous,EN,,1,2,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021-12-01 16:56:24,2021-12-02 10:35:05,0,207.179.66.215,100,63520,1,2021-12-02 10:35:05,R_2akvGUORfyFX2E9,,,,,42.7530975341796875,-84.39890289306640625,anonymous,EN,,1,1,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021-12-06 08:48:57,2021-12-06 08:49:16,0,147.92.107.19,100,18,1,2021-12-06 08:49:16,R_2xPNashZ1HlX2SG,,,,,42.2313995361328125,-83.6343994140625,anonymous,EN,1,1,2,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021-12-06 08:45:54,2021-12-06 08:56:39,0,74.199.158.38,100,645,1,2021-12-06 08:56:40,R_11jYzKglqay44nE,,,,,40.3213958740234375,-80.03780364990234375,anonymous,EN,0.89999997615814208984375,1,1,,1,For more interactions and help students to learn from each other and understand clearly each concept,1,5,4,2,5,2,2,1,4,4,2,3,2,2,3,3,3,3,3,4,4,3,3,3,4,4,2,3,4,4,4,4,3,4,3 terms,,,"Michigan State University ","Probability and Statistics ",1,Arthur Steve,Tchoneteck,tchonete@msu.edu
+2021-12-06 09:28:18,2021-12-06 09:33:14,0,35.20.165.42,100,295,1,2021-12-06 09:33:14,R_2xRjrGEW03KSdX2,,,,,42.727996826171875,-84.47350311279296875,anonymous,EN,1,1,2,1,1,"Practice exercises, data exploration, discussion of open-ended questions",1,1,3,2,6,1,1,1,5,1,4,1,1,2,5,2,5,2,5,4,5,2,1,3,5,5,5,3,2,1,6,6,3,3,3,Michigan State University,Statistics,,,1,Paul,Speaker,speakerp@msu.edu
+2021-12-06 10:16:31,2021-12-06 10:25:30,0,153.90.233.74,100,538,1,2021-12-06 10:25:30,R_qwLEkrW8h0HUSTn,,,,,45.6714019775390625,-111.04360198974609375,anonymous,EN,1,1,1,,1,"We do groups of 6-9 students at each table that work together on in-class activities, and small groups of 2-4 work on in-class assignments",3,2,1,3,5,4,3,2,4,3,2,3,3,1,5,4,1,3,4,2,2,3,3,3,2,5,5,3,3,3,5,5,3,3,4,,,Montana State University,Department of Mathematical Sciences,1,Connor,Demorest,connordemorest@montana.edu
+2021-12-07 08:13:51,2021-12-07 08:34:09,0,153.90.20.161,100,1217,1,2021-12-07 08:34:09,R_1jTkxt2d0F8NPar,,,,,45.6714019775390625,-111.04360198974609375,anonymous,EN,1,1,1,,1,"Group exams, and group lab work submissions during class",1,1,2,2,5,2,2,2,5,3,2,2,2,3,4,3,2,3,3,4,4,3,3,3,4,4,3,3,4,3,4,4,3,3,3,,,Montana State University,Mathematical Sciences,1,Gifty,Osei,giftyosei@msu.montana.edu
+2021-11-24 10:49:13,2021-11-30 17:17:08,0,207.179.66.215,63,541674,0,2021-12-07 17:17:10,R_1IK0cDWfOAEHR3q,,,,,,,anonymous,EN,,1,1,,1,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021-12-01 12:28:19,2021-12-01 12:35:49,0,207.179.66.215,92,449,0,2021-12-08 12:35:52,R_234dmv2FpXpYrMj,,,,,,,anonymous,EN,,1,1,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021-12-08 12:43:14,2021-12-08 12:43:44,0,50.30.140.68,100,30,1,2021-12-08 12:43:45,R_1DqH5ESCohib0EO,,,,,40.11199951171875,-88.23650360107421875,anonymous,EN,1,1,1,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021-12-08 14:10:38,2021-12-08 14:29:01,0,130.126.255.42,100,1102,1,2021-12-08 14:29:02,R_1MSUfzvjlHBT9Sf,,,,,40.11199951171875,-88.23650360107421875,anonymous,EN,1,1,1,,1,I break up my class into collaborative groups to work on data science problems.,2,2,1,2,6,2,2,2,5,2,3,2,2,2,6,2,3,2,5,3,5,2,2,2,3,5,5,2,2,2,5,5,2,2,3,,,University of Illinois at Urbana-Champaign,"Statistics ",2,Jonas,Reger,"wreger2@illinois.edu "
+2021-12-02 10:36:04,2021-12-02 10:38:11,0,207.179.66.215,6,126,0,2021-12-09 10:38:13,R_viCbgH90lYXeO2J,,,,,,,anonymous,EN,1,1,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021-12-10 13:59:28,2021-12-10 14:06:47,0,153.90.19.162,100,438,1,2021-12-10 14:06:47,R_22qXCU9NRgpKcWr,,,,,45.6714019775390625,-111.04360198974609375,anonymous,EN,1,1,1,,1,The class structure is set up so students work in groups for in-class activities and also assignments.,2,2,1,1,6,1,1,1,2,2,4,2,1,1,3,3,1,3,4,6,4,2,3,2,5,3,4,2,3,3,5,5,3,3,7,,,Montana State University,Department of Mathematical Sciences,2,Vanessa,Tandiman,vanessatandiman@montana.edu
+2021-12-06 08:38:38,2021-12-06 08:38:58,0,153.90.19.45,6,20,0,2021-12-13 08:39:00,R_2tbQZ98EYr2WrGX,,,,,,,anonymous,EN,1,1,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021-12-06 12:05:32,2021-12-06 12:08:20,0,73.18.190.30,6,168,0,2021-12-13 12:08:22,R_RlDSixeBz3Ej42t,,,,,,,anonymous,EN,1,1,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021-12-06 11:19:28,2021-12-06 15:38:26,0,153.90.19.112,6,15537,0,2021-12-13 15:38:26,R_3mlZ3aE2JlSCMWf,,,,,,,anonymous,EN,1,1,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021-12-08 12:05:47,2021-12-08 12:05:51,0,50.30.140.25,2,4,0,2021-12-15 12:05:53,R_245ILJK8A7Zvr4d,,,,,,,anonymous,EN,0.800000011920928955078125,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021-12-08 12:09:37,2021-12-08 12:13:34,0,130.126.255.54,42,237,0,2021-12-15 12:13:36,R_2fwbSXzn21X5E5a,,,,,,,anonymous,EN,0.800000011920928955078125,1,1,,1,"I am grouping students to discuss about their ideas. ",2,2,4,2,5,2,2,2,5,2,2,2,2,3,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2021-12-20 05:10:46,2021-12-20 05:41:34,0,108.15.224.4,100,1848,1,2021-12-20 05:41:35,R_3EQjGEmgoTHinEc,,,,,40.178802490234375,-77.00469970703125,anonymous,EN,0.89999997615814208984375,1,1,,1,"Working together on small problems twice a week, think-pair-share",1,2,1,1,6,1,1,1,5,1,2,1,1,1,6,2,2,1,6,2,5,1,1,1,4,6,5,1,1,1,5,5,1,1,10,,,Pennsylvania State University,Statistics,1,Sayali,Phadke,sayalip@psu.edu
+2021-11-30 16:14:50,2021-12-15 17:13:03,0,35.133.25.74,42,1299493,0,2021-12-22 17:13:07,R_Tpy9VOoX4DPzKRH,,,,,,,anonymous,EN,,1,1,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-01-10 14:49:36,2022-01-10 14:57:30,0,174.45.104.176,100,473,1,2022-01-10 14:57:30,R_3JFenCVCORstz0w,,,,,45.66839599609375,-111.2422027587890625,anonymous,EN,0.89999997615814208984375,1,1,,1,We use a coursepack and divide the class into groups of three to work through activities together.,3,4,1,4,4,2,3,3,3,4,4,2,3,1,2,4,1,3,3,5,1,4,4,4,5,4,2,3,4,3,3,4,4,4,1,,,Montana State University,Department of Mathematical Sciences,1,Michael,Throolin,mthroolin@gmail.com
+2022-01-10 14:34:53,2022-01-10 14:35:58,0,174.45.104.176,2,64,0,2022-01-17 14:35:59,R_269gbjMhEqaZVyQ,,,,,,,anonymous,EN,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-01-11 20:14:58,2022-01-11 20:15:25,0,74.81.245.201,8,26,0,2022-01-18 20:15:31,R_3mk2cSeRSW57R8z,,,,,,,anonymous,EN,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2022-01-24 16:03:01,2022-01-24 16:09:24,0,76.19.127.122,100,383,1,2022-01-24 16:09:24,R_33amKaed7OP4VB7,,,,,42.4167022705078125,-71.68289947509765625,anonymous,EN,1,1,2,1,1,"I use guided inquiry activities in which students work in groups of 2-4 to develop and explore statistics concepts for themselves or to work through case studies. I'm trying out using roles (manager, recorder, presenter, etc.) in those groups. I also use jigsaw group discussions for students to talk through articles they read using statistics in various contexts (students first discuss with students who read the same article, then share about their article in a mixed group).",1,5,6,2,6,2,2,2,6,1,3,1,2,1,6,2,5,2,6,3,5,2,2,2,4,6,2,2,1,1,6,6,2,2,This is my third term teaching a statistics course.,Fitchburg State University,Mathematics Department,,,1,Jessie,Oehrlein,jessoehrlein@gmail.com
+2022-01-25 13:23:27,2022-01-25 13:29:36,0,72.11.36.232,100,369,1,2022-01-25 13:29:36,R_2SHugiCxsaoGiAK,,,,,36.104705810546875,-79.820098876953125,anonymous,EN,0.800000011920928955078125,1,2,1,1,"I break up class with several short activities, in which students get to practice the material we have been talking about. I encourage, but don’t require, my students to work in groups. I could probably do more to design activities which are specifically group-focused, with different roles for different group members. ",1,2,2,2,6,2,2,2,5,1,2,2,2,2,6,2,3,2,6,3,4,2,2,2,5,6,5,2,2,2,6,6,2,2,"2 summers as a graduate student, two semesters as a faculty member. ",Wake Forest University,Mathematics and Statistics,,,1,Ciaran,Evans,evansc@wfu.edu
+2022-01-26 20:31:37,2022-01-26 20:36:32,0,104.138.144.69,100,294,1,2022-01-26 20:36:32,R_2xPmH8lQ6NJx0ez,,,,,36.068206787109375,-80.2928009033203125,anonymous,EN,1,1,2,1,1,"I often use think pair share in class, have group lab assignments, and final group projects where they collaborate on an analysis. ",1,2,5,1,6,1,1,1,5,1,1,2,2,3,5,1,6,2,5,3,6,1,1,1,4,6,4,1,1,1,6,6,1,1,4,,,,,2,Lucy,Mcgowan,lucydagostino@gmail.com
